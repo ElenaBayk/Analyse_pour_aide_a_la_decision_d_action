@@ -9,7 +9,7 @@ Identification des pays qui rencontrent des difficultés d’accès à l’eau p
 
 
 
-### <div align="center"> **Description du projet**</div>
+###  <div align="center"> **Description du projet**</div>
 
 
  
@@ -33,14 +33,14 @@ DWFA présente 3 domaines d’expertises :
 
 Celui-ci permettra de choisir le pays à cibler dès que le bailleur de fonds aura donné sa réponse sur le domaine d’expertise qu’il souhaite financer.
 
-`3 vues sont demandées`
+✅`3 vues sont demandées`
 
 1.	Sur une échelle mondiale
 2.	Sur une échelle continentale
 3.	Sur une échelle nationale
 
 
-`Indicateurs à utiliser :`
+✅`Indicateurs à utiliser :`
 
    •	le taux de mortalité dû à de l’eau insalubre ; 
 
