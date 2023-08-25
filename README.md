@@ -1,9 +1,9 @@
-# Analyse_pour_aide_a_la_decision_d_action
+# Analyse pour aider à la décision d'action
 
 Identification des pays qui rencontrent des difficultés d’accès à l’eau potable
 
 > Projet  a l'origine d'`Openclassrooms formation "Data analyst"`.  <br> <br>
-![image](https://github.com/ElenaBayk/Analyse_pour_aide_a_la_decision_d_action/assets/141257192/566c44e2-534c-4371-a858-413817c31628)
+![image](https://github.com/ElenaBayk/Analyse_pour_aide_a_la_decision_d_action/assets/141257192/da6dee90-7be4-405f-9b2b-de6b81032142)
 
 
 
