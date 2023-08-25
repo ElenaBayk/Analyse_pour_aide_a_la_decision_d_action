@@ -27,7 +27,7 @@ DWFA présente 3 domaines d’expertises :
 2.	Modernisation de services d’accès à l’eau déjà existants ;
 3.	Consulting auprès d’administrations/gouvernements à propos des politiques d’accès à l’eau.
 
-✅`**Mission :**`
+✅`Mission :`
 
  Réaliser un tableau de bord présentant une vue globale de l’accès à l’eau potable dans le monde.
 
