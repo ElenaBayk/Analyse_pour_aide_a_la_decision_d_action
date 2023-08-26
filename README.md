@@ -1,4 +1,4 @@
-# Analyse pour aider à la décision d'action
+# Analyse pour aider à la décision d'action <a href="https://powerbi.microsoft.com/fr-fr/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Git" height="50" /></a> <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>
 
 Identification des pays qui rencontrent des difficultés d’accès à l’eau potable
 
