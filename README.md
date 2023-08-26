@@ -33,23 +33,26 @@ DWFA présente 3 domaines d’expertises :
 
 Celui-ci permettra de choisir le pays à cibler dès que le bailleur de fonds aura donné sa réponse sur le domaine d’expertise qu’il souhaite financer.
 
-✅`3 vues sont demandées`
+✅`Requêtes:`
 
-1.	Sur une échelle mondiale
-2.	Sur une échelle continentale
-3.	Sur une échelle nationale
+Dashboard de 3 vues : 
+
+1. Résultats sur une échelle mondiale
+2.	Résultats sur une échelle continentale
+3.	Résultats sur une échelle nationale
 
 
 ✅`Indicateurs à utiliser :`
 
-   •	le taux de mortalité dû à de l’eau insalubre ; 
+  - le taux de mortalité dû à de l’eau insalubre ; 
+  -	la population / densité de population ;
+  -	la part d’habitants ayant accès à l’eau potable ;
+  -	la stabilité politique du pays. 
+  -	l’évolution de ces facteurs dans le temps.
+---
+⭐ `Compétences :`
 
-   •	la population / densité de population ;
-
-   •	la part d’habitants ayant accès à l’eau potable ;
-
-   •	la stabilité politique du pays. 
-
-   •	l’évolution de ces facteurs dans le temps.
-
-
+- Synthétiser des résultats à destination d'un client
+- Créer un tableau de bord répondant à des questions analytiques
+- Analyser un besoin client pour formuler des questions analytiques
+- Générer des graphiques adaptés aux types de données
